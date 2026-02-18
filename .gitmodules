@@ -4,3 +4,9 @@
 [submodule "dynamic-pokemon-expansion"]
 	path = dynamic-pokemon-expansion
 	url = https://github.com/lolowut/dynamic-pokemon-expansion
+[submodule "Complete-Fire-Red-Upgrade"]
+	path = Complete-Fire-Red-Upgrade
+	url = https://github.com/lolowut/complete-fire-red-upgrade
+[submodule "Dynamic-Pokemon-Expansion"]
+	path = Dynamic-Pokemon-Expansion
+	url = https://github.com/lolowut/dynamic-pokemon-expansion
